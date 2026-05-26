@@ -166,6 +166,11 @@ and mapped Entra application roles correctly to AWS IAM role ARNs.
 
 ![Successful AWS Federation Login](assets/screenshots/successful-federated-aws-login.png)
 
+## Microsoft Entra Role Assignments
+
+![Entra Role Assignments](assets/screenshots/entra-role-assignments.png)
+
+
 Validated:
 - SAML authentication
 - AWS role assumption
