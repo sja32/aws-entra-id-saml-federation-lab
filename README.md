@@ -170,6 +170,9 @@ and mapped Entra application roles correctly to AWS IAM role ARNs.
 
 ![Entra Role Assignments](assets/screenshots/entra-role-assignment.png)
 
+## SAML Claims Configuration Screenshot
+
+![SAML Claims Configuration](assets/screenshots/saml-claims-configuration.png)
 
 Validated:
 - SAML authentication
