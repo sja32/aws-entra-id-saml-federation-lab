@@ -168,7 +168,7 @@ and mapped Entra application roles correctly to AWS IAM role ARNs.
 
 ## Microsoft Entra Role Assignments
 
-![Entra Role Assignments](assets/screenshots/entra-role-assignments.png)
+![Entra Role Assignments](assets/screenshots/entra-role-assignment.png)
 
 
 Validated:
