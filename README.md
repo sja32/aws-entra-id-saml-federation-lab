@@ -162,7 +162,9 @@ and mapped Entra application roles correctly to AWS IAM role ARNs.
 
 # Validation
 
-Successfully authenticated into AWS using Microsoft Entra ID SSO.
+## Successful Federated AWS Login
+
+![Successful AWS Federation Login](assets/screenshots/successful-federated-aws-login.png)
 
 Validated:
 - SAML authentication
