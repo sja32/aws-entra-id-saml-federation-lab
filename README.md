@@ -16,6 +16,28 @@ This environment simulates how enterprises centralize authentication using an Id
 
 ---
 
+# Table of Contents
+
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Technologies Used](#technologies-used)
+- [Objectives](#objectives)
+- [AWS Configuration](#aws-configuration)
+- [AWS IAM Roles](#aws-iam-roles)
+- [IAM Policies](#iam-policies)
+- [Microsoft Entra ID Configuration](#microsoft-entra-id-configuration)
+- [User Assignments](#user-assignments)
+- [SAML Claims Configuration](#saml-claims-configuration)
+- [Troubleshooting](#troubleshooting)
+- [Validation](#validation)
+- [Security Concepts Demonstrated](#security-concepts-demonstrated)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Future Enhancements](#future-enhancements)
+- [Lessons Learned](#lessons-learned)
+- [Author](#author)
+
+---
+
 # Architecture
 
 ```text
@@ -192,6 +214,21 @@ Validated:
 - Temporary Credentials
 - Identity Federation
 - Cloud Access Governance
+
+# Skills Demonstrated
+
+- AWS IAM
+- Microsoft Entra ID (Azure AD)
+- SAML 2.0 Federation
+- Identity and Access Management (IAM)
+- Role-Based Access Control (RBAC)
+- Federated Authentication
+- AWS Identity Providers
+- Cloud Security Architecture
+- Enterprise Single Sign-On (SSO)
+- Troubleshooting SAML Authentication
+- Security Documentation
+- Least Privilege Design
 
 ---
 
